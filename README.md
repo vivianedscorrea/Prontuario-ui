@@ -104,8 +104,8 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE pa
 
 ## Contato
 
-Nome - [email@example.com]
-Link do Projeto: [https://github.com/seu-usuario/bem-estar-paciente]
+Nome - [vivianecorreasv@gmail.com]
+Link do Projeto: [https://github.com/vivianedscorrea/bem-estar-paciente-app-ui]
 
 ---
 
