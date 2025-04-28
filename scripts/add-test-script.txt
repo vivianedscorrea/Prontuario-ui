@@ -1,0 +1,4 @@
+
+Adicione esta linha na seção "scripts" do arquivo package.json:
+"test": "vitest run",
+"test:watch": "vitest"
